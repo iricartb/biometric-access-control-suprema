@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWSUnlockDoors", "EWSUnlockDoors\EWSUnlockDoors.csproj", "{7F46E3C6-01C5-41BC-8C75-7FA5BF8A0B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F46E3C6-01C5-41BC-8C75-7FA5BF8A0B72}.Debug|x86.ActiveCfg = Debug|x86
+		{7F46E3C6-01C5-41BC-8C75-7FA5BF8A0B72}.Debug|x86.Build.0 = Debug|x86
+		{7F46E3C6-01C5-41BC-8C75-7FA5BF8A0B72}.Release|x86.ActiveCfg = Release|x86
+		{7F46E3C6-01C5-41BC-8C75-7FA5BF8A0B72}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
