@@ -4,6 +4,5 @@ Use ActiveX technology to incorporate fingerprint register functionality in web 
 <ul>
    <li>Middleware</li>
    <li>ActiveX technology</li>
-   <li>C++ language</li>
    <li>C# language</li>
 </ul>
